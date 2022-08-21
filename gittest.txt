@@ -4,5 +4,9 @@ eeexin
 master test
 jutamaexini
 zhentamaexin
+eeexin
+master test
+chenbin/dev test
+chenbin/dev test2
 chenbin/dev test
 origin master test
